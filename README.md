@@ -23,9 +23,9 @@
 
 ## 📜 Certifications
 
-- 🏗️ Microsoft Certified: Fabric Data Engineer Associate (DP-700)
-- 📊 Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
-- ❄️ Snowflake Data Engineering Specialization
+-  Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+-  Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+-  Snowflake Data Engineering Specialization
 
 ---
 
